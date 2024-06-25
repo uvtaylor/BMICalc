@@ -16,7 +16,8 @@ let inchesInput = document.getElementById("inchesfield");
 let clickEnter = document.getElementById("Enter");
 let outputArea = document.getElementById("Output")
 
-outputArea.style.display = 'none';
+outputArea.display = "none";
+//outputArea.style.display = 'none';
 
 
 //clear previous output
