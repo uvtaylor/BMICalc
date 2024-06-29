@@ -16,7 +16,7 @@ let inchesInput = document.getElementById("inchesfield");
 let clickEnter = document.getElementById("Enter");
 let outputArea = document.getElementById("Output")
 
-outputArea.display ='none';
+outputArea.style.display ='none';
 //outputArea.style.display = 'none';
 
 
@@ -34,7 +34,7 @@ clickEnter.addEventListener("click", function () {
   
 });
 
-//clear the fields
+//clear the input fields
 function clearFields() {
   weightfield.value = "";
   heightfield.value = "";
