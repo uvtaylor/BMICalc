@@ -1,0 +1,1 @@
+This project is a BMI calculator. Weight and height are entered, and a formula is used after they are converted to m and kg, to calculate the BMI and communicate results to the user. Also categorizes the user into one of the BMI categories.
